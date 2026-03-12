@@ -15,9 +15,9 @@ Converte alcune emoticon testuali (":)" e ":(") nelle emoji corrispondenti.
 
 ## einstein.py
 Calcola la formula **E = mc²**.  
-Permette di inserire una massa e calcolare l’energia equivalente.
+Permette di inserire una massa e calcolare l'energia equivalente.
 
 ---
 
 ## tip.py
-Calcola la mancia di un conto in base alla percentuale scelta dall 'utente.
+Calcola la mancia di un conto in base alla percentuale scelta dall'utente.
