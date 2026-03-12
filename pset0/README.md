@@ -1,5 +1,5 @@
 ## indoor.py
-Converte il testo inserito dall'utente in minuscolo.
+Converte il testo inserito in minuscolo.
 
 ---
 
@@ -9,13 +9,12 @@ Sostituisce gli spazi nel testo con tre punti "...".
 ---
 
 ## faces.py
-Converte alcune emoticon testuali (":)" e ":(") nelle emoji corrispondenti.
+Converte alcune emoticon testuali ":)" e ":(" nelle emoji corrispondenti.
 
 ---
 
 ## einstein.py
-Calcola la formula **E = mc²**.  
-Permette di inserire una massa e calcolare l'energia equivalente.
+Calcola la formula **E = mc²** permettendo di inserire una massa e mostrando l'energia equivalente.
 
 ---
 
