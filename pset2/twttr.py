@@ -1,10 +1,6 @@
 def main():
-	default_input = get_input()
-	convert(default_input)
-	
-def get_input():
-	text = input("Input: ")
-	return text
+	default_text = input("Input: ")
+	convert(default_text)
 		
 def convert(default):
 	vowels = ["a", "A", "e", "E", "i", "I", "o", "O", "u", "U"]
