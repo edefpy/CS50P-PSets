@@ -19,7 +19,7 @@ def is_valid(s):
 			if character == "0" and not found_number:
 				return False
 			found_number = True
-		elif found_number:
+		elif found_number and character.isalpha():
 			return False
 	
 	return True
