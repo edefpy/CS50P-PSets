@@ -26,7 +26,7 @@ def main():
                     print("EEE")
                     errors += 1
         if errors == 3:
-            print(f"Correct answer: {x} + {y} = {correct}")
+            print(f"{x} + {y} = {correct}")
 
     print(f"Score: {score}")
 
